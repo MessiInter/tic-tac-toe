@@ -1,5 +1,11 @@
 # Tic-Tac-Toe
 
+A Tic-Tac-Toe game using Angular, SASS (SCSS syntax) Nebular (cosmic) theme. (PWA support)
+
+Tags: angular, sass, scss, nebular, nebular-theme, pwa
+
+##
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
