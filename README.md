@@ -1,8 +1,8 @@
 # Tic-Tac-Toe
 
-A Tic-Tac-Toe game using Angular, SASS (SCSS syntax) Nebular (cosmic) theme. (PWA support)
+A Tic-Tac-Toe game using Angular, SASS (SCSS syntax) Nebular (cosmic) theme (PWA support).
 
-Tags: angular, sass, scss, nebular, nebular-theme, pwa
+Topics: sass, angular, pwa, scss, tic-tac-toe, nebular, nebular-theme.
 
 ##
 
