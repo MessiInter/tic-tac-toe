@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-A Tic-Tac-Toe game using [Angular](https://angular.io), [SASS](https://sass-lang.com) ([SCSS](https://sass-lang.com/documentation/syntax/#scss) syntax), [Nebular](https://akveo.github.io/nebular) [(cosmic theme)](https://akveo.github.io/nebular/docs/design-system/cosmic-theme). ([PWA](https://web.dev/progressive-web-apps) support).
+A [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game using [Angular](https://angular.io), [SASS](https://sass-lang.com) ([SCSS](https://sass-lang.com/documentation/syntax/#scss) syntax), [Nebular](https://akveo.github.io/nebular) [(cosmic theme)](https://akveo.github.io/nebular/docs/design-system/cosmic-theme). ([PWA](https://web.dev/progressive-web-apps) support).
 
 Topics: sass, angular, pwa, scss, tic-tac-toe, nebular, nebular-theme.
 
