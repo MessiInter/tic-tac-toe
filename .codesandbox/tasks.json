@@ -30,7 +30,10 @@
     "test": {
       "name": "Run unit test",
       "command": "ng test",
-      "runAtStart": false
+      "runAtStart": false,
+      "preview": {
+        "port": 9876
+      }
     },
     "e2e": {
       "name": "Run E2E test",
