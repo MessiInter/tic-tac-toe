@@ -133,9 +133,6 @@
   },
   "cli": {
     "analytics": false,
-    "completion": {
-      "prompted": true
-    },
     "packageManager": "npm"
   }
 }
